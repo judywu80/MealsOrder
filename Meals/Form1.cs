@@ -123,7 +123,7 @@ namespace Meals
             checkBox6.Checked = false;
             checkBox7.Checked = false;
             rdBtn1.Checked = true;     //
-            rdBtn2.Checked = false;
+            rdBtn2.Checked = false;    //
             label8.Text = "";          //
             listBox1.Items.Clear();
         }
